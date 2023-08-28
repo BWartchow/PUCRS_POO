@@ -1,0 +1,10 @@
+prefixo,tipo,velocidadeCruzeiro,autonomia,empresaManutencao,nomeCiaAerea,maxPassageiros,pesoMax
+BWA,PEQ,200,500,conserta-aviao,0,0,0
+BWB,PEQ,150,400,conserta-aviao,0,0,0
+BWC,PEQ,190,300,conserta-aviao,0,0,0
+BWD,PAS,850,1200,0,supertam,200,0
+BWE,PAS,900,600,0,supertam,200,0
+BWF,PAS,920,750,0,supertam,200,0
+BWG,CAR,800,1200,0,supercargo,0,1000
+BWH,CAR,750,600,0,supercargo,0,1000
+BWI,CAR,790,750,0,supercargo,0,1000
