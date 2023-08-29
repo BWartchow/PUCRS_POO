@@ -10,8 +10,15 @@ Além disto é bom ter um editor para trabalhar com o código, como o VSCode.
 </p>
 
 <h4>Rodando o programa</h4>
-<p>Acesse a pasta do projeto no terminal</p>
-<p>Instale as dependências</p>
-`npm install`
-<p>Execute o programa</p>
-`node index.js`
+<ol>
+  <li>Acesse a pasta do projeto no terminal</li>
+  <li>Instale as dependências
+  <ul>
+    <li>$ npm install</li>
+  </ul>
+  </li>
+  <li>Execute o programa</li>
+  <ul>
+    <li>$ node index.js</li>
+  </ul>
+</ol>
